@@ -4,8 +4,8 @@ flac-itunes-import-service--macos-
 applescript script as one click service to import flac into iTunes library 
 (while converting to apple's aif, apple loss less, aac, mp3 or wav)
 
-The script is not developed by me, but after struggling finding elega…
-…nt solution I found this in deeps of googles results.
+The script is not developed by me, but after struggling finding elegant 
+solution I found this hidden deep in google's results.
 
 The last message in the forum was 2005, so I decided rather keep this in live.
 
